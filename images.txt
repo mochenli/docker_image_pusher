@@ -1,1 +1,1 @@
-openzipkin/zipkin
+postgres:latest
