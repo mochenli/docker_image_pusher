@@ -1,1 +1,1 @@
-apache/shardingsphere-proxy:5.1.0
+redis:6.2.6
