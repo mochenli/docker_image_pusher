@@ -1,1 +1,4 @@
-redis:6.2.6
+oraclelinux:9
+oraclelinux:8.10
+oraclelinux:8
+oraclelinux:7
