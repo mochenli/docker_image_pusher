@@ -1,1 +1,1 @@
-mysql:oraclelinux9
+canal/canal-server
