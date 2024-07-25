@@ -1,1 +1,3 @@
-canal/canal-server
+rabbitmq
+apache/rocketmq
+bitnami/kafka
