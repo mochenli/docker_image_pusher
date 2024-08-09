@@ -1,2 +1,2 @@
-rabbitmq:3.13
-rabbitmq:3.8-management
+onerahmet/openai-whisper-asr-webservice:latest
+onerahmet/openai-whisper-asr-webservice:latest-gpu
