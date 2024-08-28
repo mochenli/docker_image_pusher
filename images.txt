@@ -1,2 +1,1 @@
-onerahmet/openai-whisper-asr-webservice:latest
-onerahmet/openai-whisper-asr-webservice:latest-gpu
+openjdk:8-jre
