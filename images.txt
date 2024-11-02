@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.4.3
+minio/minio:RELEASE.2022-01-04T07-41-07Z
