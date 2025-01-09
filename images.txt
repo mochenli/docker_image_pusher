@@ -1,1 +1,1 @@
-kubesphere/pause:3.5
+tensorflow/tensorflow:nightly-jupyter
