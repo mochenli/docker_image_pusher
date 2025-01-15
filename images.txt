@@ -1,1 +1,1 @@
-yidadaa/chatgpt-next-web
+libretranslate/libretranslate
