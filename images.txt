@@ -1,1 +1,1 @@
-eclipse-temurin:8-jre
+jenkins/inbound-agent:4.10-2
